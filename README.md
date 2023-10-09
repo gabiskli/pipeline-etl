@@ -1,19 +1,19 @@
 # Pipeline de ETL com Python
 🧶 Construindo um banco de dados com informações sobre linhas de crochê / tricô🧶
 
-<center>✅ Status: Concluído ✅</center>
+✅ Status: Concluído ✅
 
 
 ## Tabela de conteúdos
-* [Sobre o Projeto](#sobre-o-projeto)
-* [Tabela de Conteúdos](#tabela-de-conteudos)
-* [Como utilizar o Projeto](#como-utilizar-o-projeto)
+* [Sobre o Projeto](#-sobre-o-projeto)
+* [Tabela de Conteúdos](#tabela-de-conteúdos)
+* [Como utilizar o Projeto](#-como-utilizar-o-projeto)
 	* [Etapas do Processo ETL](#etapas-do-processo)
 	* [Arquivos](#arquivos-do-projeto)
 	* [Instruções de Uso](#instruções-de-uso)
-* [Tecnologias](#tecnologias-utilizadas)
-* [Próximos Passos](#🚧-próximos-passos-🚧)
-* [Licença](#🔗-licença)
+* [Tecnologias](#%EF%B8%8F-tecnologias-utilizadas)
+* [Próximos Passos](#-próximos-passos-)
+* [Licença](#-licença)
 
 ## 💻 Sobre o Projeto
 
